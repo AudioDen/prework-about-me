@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+#one {color: red;
+}
+#two{color: blue;}
+#three{color: green;}
+#four{font-size: x-large;}
+#five{font-size: x-small;}
+#six{text-align: center;}
+#seven{font-weight: bolder;}
+#eight{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+#nine{font-size: xx-large;color: orange;font-weight: bolder;}
+
+.styledFont{font-style: italic;}
+
+#styledImage{border: orangered;border-style: dotted;border-width: thick;}
